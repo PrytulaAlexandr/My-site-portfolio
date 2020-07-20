@@ -196,3 +196,11 @@ body {
   padding-left: 25px;
   background-image: url("img/icon-Telegram_logo.svg");
 }
+.footer-linkedin {
+  padding-left: 25px;
+  background-image: url("img/icon-linkedin.svg");
+}
+.footer-facebook {
+  padding-left: 25px;
+  background-image: url("img/icon-facebook.svg");
+}
